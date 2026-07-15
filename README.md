@@ -1,6 +1,6 @@
 # Grute
 
-Too many people texting in a group chat when you only care about a certain someone? Someone constantly pinging you in a group but you want to ignore them (but not the rest)? WhatsApp only allows you to mute the group as a whole; why let one rotten apple spoil the party?
+Too many people texting in a group chat when you only care about a certain someone? Someone constantly pinging you in a group when you want to ignore them (but not the rest)? WhatsApp only allows you to mute the group as a whole; why let one rotten apple spoil the party?
 
 ### **Grute is the answer!**
 
