@@ -19,7 +19,7 @@ Grute works by using the `NotificationListenerService` to listen for WhatsApp no
 ## Installation & Troubleshooting
 
 ### Play Protect Warning
-When sideloading the APK, Google Play Protect may block the installation with a warning. This happens because `NotificationListenerService` is a sensitive service to give permission to.
+When sideloading the APK, Google Play Protect may block the installation with a warning. This happens because `NotificationListenerService` is a sensitive service to give access to.
 You can look through the source code to ensure that your information is secure; everything is stored locally and nothing else is being done with your notification data besides some regex parsing (or you can just trust me :D)
 
 **How to resolve it:**
